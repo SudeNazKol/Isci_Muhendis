@@ -1,0 +1,11 @@
+C:\Users\Hp\source\repos\MelihHocaDers\MelihHocaOdev3.Hafta\MelihHocaOdev3.Hafta\bin\Debug\MelihHocaOdev3.Hafta.exe.config
+C:\Users\Hp\source\repos\MelihHocaDers\MelihHocaOdev3.Hafta\MelihHocaOdev3.Hafta\bin\Debug\MelihHocaOdev3.Hafta.exe
+C:\Users\Hp\source\repos\MelihHocaDers\MelihHocaOdev3.Hafta\MelihHocaOdev3.Hafta\bin\Debug\MelihHocaOdev3.Hafta.pdb
+C:\Users\Hp\source\repos\MelihHocaDers\MelihHocaOdev3.Hafta\MelihHocaOdev3.Hafta\obj\Debug\MelihHocaOdev3.Hafta.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\MelihHocaDers\MelihHocaOdev3.Hafta\MelihHocaOdev3.Hafta\obj\Debug\MelihHocaOdev3.Hafta.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hp\source\repos\MelihHocaDers\MelihHocaOdev3.Hafta\MelihHocaOdev3.Hafta\obj\Debug\MelihHocaOdev3.Hafta.Form1.resources
+C:\Users\Hp\source\repos\MelihHocaDers\MelihHocaOdev3.Hafta\MelihHocaOdev3.Hafta\obj\Debug\MelihHocaOdev3.Hafta.Properties.Resources.resources
+C:\Users\Hp\source\repos\MelihHocaDers\MelihHocaOdev3.Hafta\MelihHocaOdev3.Hafta\obj\Debug\MelihHocaOdev3.Hafta.csproj.GenerateResource.cache
+C:\Users\Hp\source\repos\MelihHocaDers\MelihHocaOdev3.Hafta\MelihHocaOdev3.Hafta\obj\Debug\MelihHocaOdev3.Hafta.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\MelihHocaDers\MelihHocaOdev3.Hafta\MelihHocaOdev3.Hafta\obj\Debug\MelihHocaOdev3.Hafta.exe
+C:\Users\Hp\source\repos\MelihHocaDers\MelihHocaOdev3.Hafta\MelihHocaOdev3.Hafta\obj\Debug\MelihHocaOdev3.Hafta.pdb
